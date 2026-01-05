@@ -1,6 +1,6 @@
 # 🎓 Internship & Academic Project Management System
 
-<img width="172" height="43" alt="logo" src="https://github.com/user-attachments/assets/4728d696-51fb-4ba6-83f2-6992cfcd64a0" />
+<center><img width="172" height="43" alt="logo" src="https://github.com/user-attachments/assets/4728d696-51fb-4ba6-83f2-6992cfcd64a0" /></center>
 
 
 <img width="2048" height="512" alt="Gemini_Generated_Image_uyfczouyfczouyfc" src="https://github.com/user-attachments/assets/605e328b-b38a-4a9b-a963-fe237ec969b9" />
