@@ -1,5 +1,12 @@
 # 🎓 Internship & Academic Project Management System
 
+<img width="172" height="43" alt="logo" src="https://github.com/user-attachments/assets/4728d696-51fb-4ba6-83f2-6992cfcd64a0" />
+
+
+<img width="2048" height="512" alt="Gemini_Generated_Image_uyfczouyfczouyfc" src="https://github.com/user-attachments/assets/605e328b-b38a-4a9b-a963-fe237ec969b9" />
+
+
+
 ## 📌 Overview
 
 This project is a **web-based management platform** designed to streamline the handling of **internships, academic projects, and official documents** within an academic institution. It supports the full lifecycle of internships and final-year projects (PFE), including documentation, validation processes, and stakeholder communication.
@@ -81,6 +88,7 @@ Built with **NestJS**, **Angular**, **Tailwind CSS**, and **TypeORM**, the syste
 - **Extensibility**: Modular design with nullable fields (e.g., `defenses.jury_evaluation_id`) and comments for maintainability, supporting future features like additional document types or chatbot enhancements.
 
 ## 🗓 Project Scope & Deployment
+
 
 - **Target Environment**: Designed for deployment on a university-managed server (potentially upgraded from 2016 hardware). Optimized for moderate data volumes (500+ students, 100–200 concurrent internship requests, 1000+ documents).
 - **Scalability**: Indexes, partitioning, and materialized views ensure performance during peak periods (e.g., internship request surges).
