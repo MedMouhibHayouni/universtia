@@ -2,9 +2,14 @@
 
 <center><img width="172" height="43" alt="logo" src="https://github.com/user-attachments/assets/4728d696-51fb-4ba6-83f2-6992cfcd64a0" /></center>
 
+<img width="512" height="620" alt="Login" src="https://github.com/user-attachments/assets/df64c336-7c22-40ed-9758-4bb345550079" />
+
+<img width="1912" height="1693" alt="DashboardHome" src="https://github.com/user-attachments/assets/ef7273e5-a00f-4331-b279-0c9d7bc4317e" />
+
 
 <img width="2048" height="512" alt="Gemini_Generated_Image_uyfczouyfczouyfc" src="https://github.com/user-attachments/assets/605e328b-b38a-4a9b-a963-fe237ec969b9" />
 
+<img width="1912" height="1055" alt="add newUser" src="https://github.com/user-attachments/assets/9e4f4e59-060f-414a-bf91-7c839778cc3e" />
 
 
 ## 📌 Overview
